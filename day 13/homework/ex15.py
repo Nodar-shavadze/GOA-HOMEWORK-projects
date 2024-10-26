@@ -6,8 +6,19 @@
 
 
 
-for i in range(1,51,2):
-    print(i)
+
 
 for i in range(0,11):
     print(i)
+
+for i in range(50,151):
+    print(i)
+
+for i in range(200,501,2):
+    print(i)
+
+
+for i in range(1,51,2):
+    print(i)
+
+#ჩვენ for loopს მაშინ ვიყენებთ როდესაც გვსურს რომ ტერმინალზე გამოვიტანოთ გარკვეული რაოდენობის რიცხვები ან სიტყვები. 
